@@ -59,7 +59,7 @@ li {
   position: relative;
   width: 100%;
   min-height: 100vh;
-  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)) ,url("../image/koo.jpg");
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)) ,url("images/koo.jpg");
   background-position: center;
   background-size: cover;
   z-index: 1;
